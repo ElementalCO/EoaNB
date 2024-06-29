@@ -4976,7 +4976,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year1"
-				position = { x = 10 y = 180 }
+				position = { x = 110 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -4989,7 +4989,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year2"
-				position = { x = 10 y = 390 }
+				position = { x = 320 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5002,7 +5002,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year3"
-				position = { x = 10 y = 600 }
+				position = { x = 530 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5015,7 +5015,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year4"
-				position = { x = 10 y = 810 }
+				position = { x = 740 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5028,7 +5028,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year5"
-				position = { x = 10 y = 950 }
+				position = { x = 950 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5041,7 +5041,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year6"
-				position = { x = 10 y = 1160 }
+				position = { x = 1160 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5054,7 +5054,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year7"
-				position = { x = 10 y = 1300 }
+				position = { x = 1370 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5067,7 +5067,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year8"
-				position = { x = 10 y = 1510 }
+				position = { x = 1580 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5080,7 +5080,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year9"
-				position = { x = 10 y = 1650 }
+				position = { x = 1790 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5093,7 +5093,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year10"
-				position = { x = 10 y = 1790 }
+				position = { x = 2000 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5106,7 +5106,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year11"
-				position = { x = 10 y = 1930 }
+				position = { x = 2210 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5119,7 +5119,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year12"
-				position = { x = 10 y = 2140 }
+				position = { x = 2420 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5132,7 +5132,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year13"
-				position = { x = 10 y = 2350 }
+				position = { x = 2630 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5145,7 +5145,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year14"
-				position = { x = 10 y = 2560 }
+				position = { x = 2840 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5158,7 +5158,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year15"
-				position = { x = 10 y = 2700 }
+				position = { x = 3050 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5171,7 +5171,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year16"
-				position = { x = 10 y = 2910 }
+				position = { x = 3260 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5184,7 +5184,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year17"
-				position = { x = 10 y = 3120 }
+				position = { x = 3470 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5197,7 +5197,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year18"
-				position = { x = 10 y = 3330 }
+				position = { x = 3680 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5210,7 +5210,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year19"
-				position = { x = 10 y = 3540 }
+				position = { x = 3890 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5223,7 +5223,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year20"
-				position = { x = 10 y = 3680 }
+				position = { x = 4100 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5236,7 +5236,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year21"
-				position = { x = 10 y = 3890 }
+				position = { x = 4310 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5249,7 +5249,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year22"
-				position = { x = 10 y = 4030 }
+				position = { x = 4520 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5262,7 +5262,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year23"
-				position = { x = 10 y = 4170 }
+				position = { x = 4730 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5275,7 +5275,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year24"
-				position = { x = 10 y = 4310 }
+				position = { x = 5040 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5288,7 +5288,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name = "naval_year25"
-				position = { x = 10 y = 4520 }
+				position = { x = 5350 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5300,7 +5300,7 @@ guiTypes = {
 			}
 			instantTextBoxType = {
 				name = "naval_year26"
-				position = { x = 10 y = 4730 }
+				position = { x = 5620 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5312,7 +5312,7 @@ guiTypes = {
 			}
 			instantTextBoxType = {
 				name = "naval_year27"
-				position = { x = 10 y = 4940 }
+				position = { x = 5890 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5324,7 +5324,7 @@ guiTypes = {
 			}
 			instantTextBoxType = {
 				name = "naval_year28"
-				position = { x = 10 y = 5150 }
+				position = { x = 6160 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5336,7 +5336,7 @@ guiTypes = {
 			}
 			instantTextBoxType = {
 				name = "naval_year29"
-				position = { x = 10 y = 5360 }
+				position = { x = 6440 y = 20 }
 				textureFile = ""
 				font = "hoi_36header"
 				borderSize = { x = 0 y = 4 }
@@ -5347,89 +5347,90 @@ guiTypes = {
 				Orientation = "UPPER_LEFT"
 			}
 
-				#instantTextBoxType = {
-				#	name = "naval_subtitle_armament"
-				#	position = { x = 30 y = 2835 }
-				#	textureFile = ""
-				#	font = "hoi_33"
-				#	borderSize = { x = 0 y = 4 }
-				#	text = "NAVAL_TITLE_ARMAMENT"
-				#	maxWidth = 600
-				#	maxHeight = 62
-				#	format = left
-				#	Orientation = "UPPER_LEFT"
-				#	#pdx_tooltip = "both_cruisers_desc"
-				#}
 
-				#instantTextBoxType = {
-				#	name = "naval_subtitle_propulsion"
-				#	position = { x = 30 y = 3730 }
-				#	textureFile = ""
-				#	font = "hoi_33"
-				#	borderSize = { x = 0 y = 4 }
-				#	text = "NAVAL_TITLE_PROPULSION"
-				#	maxWidth = 600
-				#	maxHeight = 62
-				#	format = left
-				#	Orientation = "UPPER_LEFT"
-				#	#pdx_tooltip = "both_cruisers_desc"
-				#}
+				instantTextBoxType = {
+					name = "naval_subtitle_armament"
+					position = { x = 40 y = 230 }
+					textureFile = ""
+					font = "hoi_33"
+					borderSize = { x = 0 y = 4 }
+					text = "NAVAL_TITLE_ARMAMENT"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+					#pdx_tooltip = "both_cruisers_desc"
+				}
 
-			#	instantTextBoxType = {
-				#	name = "naval_subtitle_mines_torpedoes"
-				#	position = { x = 30 y = 4240 }
-				#	textureFile = ""
-				#	font = "hoi_33"
-				#	borderSize = { x = 0 y = 4 }
-				#	text = "NAVAL_TITLE_MINES_TORPEDOES"
-				#	maxWidth = 600
-				#	maxHeight = 62
-				#	format = left
-				#	Orientation = "UPPER_LEFT"
-				#	#pdx_tooltip = "both_cruisers_desc"
-				#}
+				instantTextBoxType = {
+					name = "naval_subtitle_propulsion"
+					position = { x = 40 y = 1000 }
+					textureFile = ""
+					font = "hoi_33"
+					borderSize = { x = 0 y = 4 }
+					text = "NAVAL_TITLE_PROPULSION"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+					#pdx_tooltip = "both_cruisers_desc"
+				}
 
-				#instantTextBoxType = {
-				#	name = "naval_subtitle_fire_control"
-				#	position = { x = 30 y = 4710 }
-					#textureFile = ""
-				#	font = "hoi_33"
-				#	borderSize = { x = 0 y = 4 }
-				#	text = "NAVAL_TITLE_FIRE_CONTROL"
-				#	maxWidth = 600
-				#	maxHeight = 62
-				#	format = left
-				#	Orientation = "UPPER_LEFT"
-				#	#pdx_tooltip = "both_cruisers_desc"
-				#}
+				instantTextBoxType = {
+					name = "naval_subtitle_mines_torpedoes"
+					position = { x = 30 y = 1375 }
+					textureFile = ""
+					font = "hoi_33"
+					borderSize = { x = 0 y = 4 }
+					text = "NAVAL_TITLE_MINES_TORPEDOES"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+					#pdx_tooltip = "both_cruisers_desc"
+				}
 
-				#instantTextBoxType = {
-				#	name = "naval_subtitle_damage_control"
-				#	position = { x = 30 y = 5000 }
-				#	textureFile = ""
-				#	font = "hoi_33"
-				#	borderSize = { x = 0 y = 4 }
-				#	text = "NAVAL_TITLE_DAMAGE_CONTROL"
-				#	maxWidth = 600
-				#	maxHeight = 62
-				#	format = left
-				#	Orientation = "UPPER_LEFT"
-				#	#pdx_tooltip = "both_cruisers_desc"
-				#}
+				instantTextBoxType = {
+					name = "naval_subtitle_fire_control"
+					position = { x = 30 y = 2070 }
+					textureFile = ""
+					font = "hoi_33"
+					borderSize = { x = 0 y = 4 }
+					text = "NAVAL_TITLE_FIRE_CONTROL"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+					#pdx_tooltip = "both_cruisers_desc"
+				}
 
-				#instantTextBoxType = {
-				#	name = "naval_subtitle_transport_ships"
-				#	position = { x = 30 y = 5150 }
-				#	textureFile = ""
-				#	font = "hoi_33"
-				#	borderSize = { x = 0 y = 4 }
-				#	text = "NAVAL_TITLE_TRANSPORT_SHIPS"
-				#	maxWidth = 600
-				#	maxHeight = 62
-				#	format = left
-				#	Orientation = "UPPER_LEFT"
-				#	#pdx_tooltip = "both_cruisers_desc"
-				#}
+				instantTextBoxType = {
+					name = "naval_subtitle_damage_control"
+					position = { x = 30 y = 2420 }
+					textureFile = ""
+					font = "hoi_33"
+					borderSize = { x = 0 y = 4 }
+					text = "NAVAL_TITLE_DAMAGE_CONTROL"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+					#pdx_tooltip = "both_cruisers_desc"
+				}
+
+				instantTextBoxType = {
+					name = "naval_subtitle_transport_ships"
+					position = { x = 30 y = 2640 }
+					textureFile = ""
+					font = "hoi_33"
+					borderSize = { x = 0 y = 4 }
+					text = "NAVAL_TITLE_TRANSPORT_SHIPS"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+					#pdx_tooltip = "both_cruisers_desc"
+				}
 		}
 	
 		containerWindowType = {
