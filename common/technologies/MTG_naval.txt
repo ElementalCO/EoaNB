@@ -5730,7 +5730,7 @@ ai_will_do = { modifier = { factor = 0 afr_is_tribal = yes  date < 1875.1.1 } mo
 		start_year = 1850
 		folder = {
 			name = mtgnavalfolder
-			position = { x = @1850 y = 40}
+			position = { x = @1850 y = 32}
 		}
 
 		categories = {
@@ -8572,6 +8572,7 @@ ai_will_do = { modifier = { factor = 0 afr_is_tribal = yes  date < 1875.1.1 } mo
 		folder = {
 			name = mtgnavalfolder
 			position = { x = @1935 y = 55}
+		}
 
 		categories = {
 			naval_equipment
@@ -9038,4 +9039,3 @@ ai_will_do = { modifier = { factor = 0 afr_is_tribal = yes  date < 1875.1.1 } mo
 #		}
 #	}	
 	}
-}
