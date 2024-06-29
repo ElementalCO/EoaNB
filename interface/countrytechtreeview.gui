@@ -4715,89 +4715,89 @@ guiTypes = {
 				}
 				
 
-				#instantTextBoxType = {
-				#	name = "naval_subtitle_gunboats"
-				##	position = { x = 30 y = 110 }
-				#	textureFile = ""
-				#	font = "hoi_33"
-				#	borderSize = { x = 0 y = 4 }
-				#	text = "NAVAL_TITLE_GUNBOATS"
-				#	maxWidth = 600
-				#	maxHeight = 62
-				#	format = left
-				#	Orientation = "UPPER_LEFT"
-				#	#pdx_tooltip = "destroyer_desc"
-				#}
-#
-				#instantTextBoxType = {
-				#	name = "naval_subtitle_corvettes_destroyers"
-				#	position = { x = 30 y = 950 }
-				#	textureFile = ""
-				#	font = "hoi_33"
-				#	borderSize = { x = 0 y = 4 }
-				#	text = "NAVAL_TITLE_CORVETTES_DESTROYERS"
-				#	maxWidth = 600
-				#	maxHeight = 62
-				#	format = left
-				#	Orientation = "UPPER_LEFT"
-				#	#pdx_tooltip = "both_cruisers_desc"
-				#}
+				instantTextBoxType = {
+					name = "naval_subtitle_gunboats"
+					position = { x = 250 y = 110 }
+					textureFile = ""
+					font = "hoi_33"
+					borderSize = { x = 0 y = 4 }
+					text = "NAVAL_TITLE_GUNBOATS"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+					#pdx_tooltip = "destroyer_desc"
+				}
 
-				#instantTextBoxType = {
-				#	name = "naval_subtitle_mainline_ships"
-				#	position = { x = 30 y = 1650 }
-				#	textureFile = ""
-				#	font = "hoi_33"
-				#	borderSize = { x = 0 y = 4 }
-				#	text = "NAVAL_TITLE_MAINLINE_SHIPS"
-				#	maxWidth = 600
-				#	maxHeight = 62
-				#	format = left
-				#	Orientation = "UPPER_LEFT"
-				#	#pdx_tooltip = "both_cruisers_desc"
-				#}
+				instantTextBoxType = {
+					name = "naval_subtitle_corvettes_destroyers"
+					position = { x = 900 y = 110 }
+					textureFile = ""
+					font = "hoi_33"
+					borderSize = { x = 0 y = 4 }
+					text = "NAVAL_TITLE_CORVETTES_DESTROYERS"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+					#pdx_tooltip = "both_cruisers_desc"
+				}
 
-				#instantTextBoxType = {
-				#	name = "naval_subtitle_heavy_ships"
-				#	position = { x = 30 y = 2350 }
-				#	textureFile = ""
-				#	font = "hoi_33"
-				#	borderSize = { x = 0 y = 4 }
-				#	text = "NAVAL_TITLE_HEAVY_SHIPS"
-				#	maxWidth = 600
-				#	maxHeight = 62
-				#	format = left
-				#	Orientation = "UPPER_LEFT"
-				#	#pdx_tooltip = "both_cruisers_desc"
-				#}
+				instantTextBoxType = {
+					name = "naval_subtitle_mainline_ships"
+					position = { x = 2350 y = 110 }
+					textureFile = ""
+					font = "hoi_33"
+					borderSize = { x = 0 y = 4 }
+					text = "NAVAL_TITLE_MAINLINE_SHIPS"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+					#pdx_tooltip = "both_cruisers_desc"
+				}
 
-				#instantTextBoxType = {
-				#	name = "naval_subtitle_carriers"
-				#	position = { x = 4065 y = 2021 }
-				#	textureFile = ""
-				#	font = "hoi_33"
-				#	borderSize = { x = 0 y = 4 }
-				#	text = "NAVAL_TITLE_CARRIERS"
-				#	maxWidth = 600
-				#	maxHeight = 62
-				#	format = left
-				#	Orientation = "UPPER_LEFT"
-				#	#pdx_tooltip = "both_cruisers_desc"
-				#}
+				instantTextBoxType = {
+					name = "naval_subtitle_heavy_ships"
+					position = { x = 1700 y = 800 }
+					textureFile = ""
+					font = "hoi_33"
+					borderSize = { x = 0 y = 4 }
+					text = "NAVAL_TITLE_HEAVY_SHIPS"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+					#pdx_tooltip = "both_cruisers_desc"
+				}
 
-				#instantTextBoxType = {
-				#	name = "naval_subtitle_submarines"
-				#	position = { x = 1080 y = 2560 }
-				#	textureFile = ""
-				#	font = "hoi_33"
-				##	borderSize = { x = 0 y = 4 }
-				#	text = "NAVAL_TITLE_SUBMARINES"
-				#	maxWidth = 600
-				#	maxHeight = 62
-				#	format = left
-				#	Orientation = "UPPER_LEFT"
-				#	#pdx_tooltip = "both_cruisers_desc"
-				#}
+				instantTextBoxType = {
+					name = "naval_subtitle_carriers"
+					position = { x = 3870 y = 3810 }
+					textureFile = ""
+					font = "hoi_33"
+					borderSize = { x = 0 y = 4 }
+					text = "NAVAL_TITLE_CARRIERS"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+					#pdx_tooltip = "both_cruisers_desc"
+				}
+
+				instantTextBoxType = {
+					name = "naval_subtitle_submarines"
+					position = { x = 3180 y = 1240 }
+					textureFile = ""
+					font = "hoi_33"
+					borderSize = { x = 0 y = 4 }
+					text = "NAVAL_TITLE_SUBMARINES"
+					maxWidth = 600
+					maxHeight = 62
+					format = left
+					Orientation = "UPPER_LEFT"
+					#pdx_tooltip = "both_cruisers_desc"
+				}
 
 
 
