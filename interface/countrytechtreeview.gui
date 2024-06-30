@@ -9716,14 +9716,14 @@ guiTypes = {
 
 			buttonType = {
 				name = "naval_folder_tab"
-				position = { x = 386 y = 0 }
+				position = { x = 430 y = 0 }
 				quadTextureSprite = "GFX_naval_folder_tab"
 				frame = 1
 				clicksound = click_default
 			}
 			buttonType = {
 				name = "mtgnavalsupportfolder_tab"
-				position = { x = 1124 y = 0 }
+				position = { x = 470 y = 0 }
 				quadTextureSprite = "GFX_naval_folder_tab"
 				frame = 1
 				clicksound = click_default
@@ -9739,7 +9739,7 @@ guiTypes = {
 			
 			buttonType = {
 				name = "air_techs_folder_tab"
-				position = { x = 492 y = 0 }
+				position = { x = 578 y = 0 }
 				quadTextureSprite = "GFX_air_techs_folder_tab"
 				frame = 1
 				clicksound = click_default
@@ -9755,7 +9755,7 @@ guiTypes = {
 
 			buttonType = {
 				name = "aviation_folder_tab"
-				position = { x = 578 y = 0 }
+				position = { x = 665 y = 0 }
 				quadTextureSprite = "GFX_aviation_folder_tab"
 				frame = 1
 				clicksound = click_default
@@ -9763,7 +9763,7 @@ guiTypes = {
 
 			buttonType = {
 				name = "mechanical_engineering_folder_tab"
-				position = { x = 684 y = 0 }
+				position = { x = 770 y = 0 }
 				quadTextureSprite = "GFX_mechanical_engineering_folder_tab"
 				frame = 1
 				clicksound = click_default
@@ -9771,7 +9771,7 @@ guiTypes = {
 
 			buttonType = {
 				name = "process_engineering_folder_tab"
-				position = { x = 770 y = 0 }
+				position = { x = 856 y = 0 }
 				quadTextureSprite = "GFX_process_engineering_folder_tab"
 				frame = 1
 				clicksound = click_default
@@ -9779,7 +9779,7 @@ guiTypes = {
 
 			buttonType = {
 				name = "biochemistry_folder_tab"
-				position = { x = 856 y = 0 }
+				position = { x = 942 y = 0 }
 				quadTextureSprite = "GFX_biochemistry_folder_tab"
 				frame = 1
 				clicksound = click_default
@@ -9787,7 +9787,7 @@ guiTypes = {
 
 			buttonType = {
 				name = "electronics_devices_folder_tab"
-				position = { x = 942 y = 0 }
+				position = { x = 1028 y = 0 }
 				quadTextureSprite = "GFX_electronics_devices_folder_tab"
 				frame = 1
 				clicksound = click_default
@@ -9795,7 +9795,7 @@ guiTypes = {
 
 			buttonType = {
 				name = "pre_industrial_folder_tab"
-				position = { x = 1048 y = 0 }
+				position = { x = 1124 y = 0 }
 				quadTextureSprite = "GFX_humanities_folder_tab"
 				frame = 1
 				clicksound = click_default
@@ -9803,7 +9803,7 @@ guiTypes = {
 
 			buttonType = {
 				name = "humanities_folder_tab"
-				position = { x = 1048 y = 0 }
+				position = { x = 1134 y = 0 }
 				quadTextureSprite = "GFX_humanities_folder_tab"
 				frame = 1
 				clicksound = click_default
