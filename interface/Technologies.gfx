@@ -2026,12 +2026,16 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/ships/cruiser_1915.png"
 	}
 	SpriteType = {
+		name = "GFX_tech_naval_mtg_1940_cruiser_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/cruiser_1940.png"
+	}
+	SpriteType = {
 		name = "GFX_ship_hull_dreadnought_0_medium"
 		texturefile = "gfx/interface/technologies/ships/navy_ship_pre_dreadnought_2.dds"
 	}
 	SpriteType = {
 		name = "GFX_tech_naval_mtg_pre_dreadnought_hull_medium"
-		texturefile = "gfx/interface/technologies/ships/navy_ship_pre_dreadnought_2.dds"
+		texturefile = "gfx/interface/technologies/ships/pre_dreadnought.png"
 	}
 	SpriteType = {
 		name = "GFX_tech_naval_mtg_early_battleship_hull_medium"
@@ -3065,6 +3069,30 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/ships/ENG_super_dread1918.dds"
 	}
 	SpriteType = {
+		name = "GFX_ENG_tech_naval_mtg_early_dreadnought_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/ENG_early_dreadnought.png"
+	}
+	SpriteType = {
+		name = "GFX_ENG_tech_naval_mtg_1905_torpedo_boat_medium"
+		texturefile = "gfx/interface/technologies/ships/ENG_adventure.png"
+	}
+	SpriteType = {
+		name = "GFX_ENG_tech_naval_mtg_1922_submarine_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/ENG_m_class.png"
+	}
+	SpriteType = {
+		name = "GFX_ENG_tech_naval_mtg_1888_armored_cruiser_medium"
+		texturefile = "gfx/interface/technologies/ships/ENG_sovereign.png"
+	}
+	SpriteType = {
+		name = "GFX_ENG_tech_naval_mtg_1944_destroyer_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/ENG_C.png"
+	}
+	SpriteType = {
+		name = "GFX_ENG_tech_naval_mtg_1935_destroyer_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/ENG_AB.png"
+	}
+	SpriteType = {
 		name = "GFX_ENG_tech_naval_mtg_early_frigate_medium"
 		texturefile = "gfx/interface/technologies/ships/ENG_old_frg.dds"
 	}
@@ -3511,6 +3539,40 @@ spriteTypes = {
 		name = "GFX_JAP_super_heavy_tank_medium"
 		texturefile = "gfx/interface/technologies/JAP_superheavy_tank.dds"
 	}
+
+	### Japanese Ships ####	
+	SpriteType = {
+		name = "GFX_JAP_tech_naval_mtg_1935_battleship_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/JAP_takao.png"
+	}
+	SpriteType = {
+		name = "GFX_JAP_tech_naval_mtg_early_battleship_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/JAP_shikishima.png"
+	}
+	SpriteType = {
+		name = "GFX_JAP_tech_naval_mtg_1918_dreadnought_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/JAP_nagato.png"
+	}
+	SpriteType = {
+		name = "GFX_JAP_tech_naval_mtg_1910_cruiser_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/JAP_kongo.png"
+	}
+	SpriteType = {
+		name = "GFX_JAP_tech_naval_mtg_1922_carrier_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/JAP_kaga.png"
+	}
+	SpriteType = {
+		name = "GFX_JAP_tech_naval_mtg_1914_dreadnought_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/JAP_fuso.png"
+	}
+	SpriteType = {
+		name = "GFX_JAP_tech_naval_mtg_1916_dreadnought_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/JAP_ise.png"
+	}
+	SpriteType = {
+		name = "GFX_JAP_tech_naval_mtg_1940_battleship_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/JAP_yamato.png"
+	}
 	### Soviet tanks ####	
 
 	SpriteType = {
@@ -3947,6 +4009,35 @@ spriteTypes = {
 		name = "GFX_USA_super_heavy_tank_medium"
 		texturefile = "gfx/interface/technologies/USA_superheavy_tank.dds"
 	}
+	### USA Ships ####	
+	SpriteType = {
+		name = "GFX_USA_tech_naval_mtg_1908_monitor_medium"
+		texturefile = "gfx/interface/technologies/ships/USA_arkansas.png"
+	}
+	SpriteType = {
+		name = "GFX_USA_tech_naval_mtg_1940_carrier_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/USA_wolverine.png"
+	}
+	SpriteType = {
+		name = "GFX_USA_tech_naval_mtg_1922_carrier_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/USA_langley.png"
+	}
+
+	### Brazil Ships ####	
+	SpriteType = {
+		name = "GFX_BRA_tech_naval_mtg_early_dreadnought_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/BRA_minas_gerais.png"
+	}
+	### Chile Ships ####	
+	SpriteType = {
+		name = "GFX_CHL_tech_naval_mtg_1888_armored_cruiser_medium"
+		texturefile = "gfx/interface/technologies/ships/CHL_presidente.png"
+	}
+	SpriteType = {
+		name = "GFX_CHL_tech_naval_mtg_1918_dreadnought_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/CHL_latorre.png"
+	}
+
 	### Generic Tanks	###	
 	SpriteType = {
 		name = "GFX_basic_light_tank_medium"
