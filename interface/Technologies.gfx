@@ -2027,7 +2027,7 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_tech_naval_mtg_1940_cruiser_hull_medium"
-		texturefile = "gfx/interface/technologies/ships/cruiser_1940.png"
+		texturefile = "gfx/interface/technologies/ships/crusier_1940.png"
 	}
 	SpriteType = {
 		name = "GFX_ship_hull_dreadnought_0_medium"
