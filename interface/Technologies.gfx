@@ -3113,6 +3113,10 @@ spriteTypes = {
 		name = "GFX_RUS_tech_naval_mtg_pre_dreadnought_hull_medium"
 		texturefile = "gfx/interface/technologies/ships/RUS_early_dreadnought.dds"
 	}
+	SpriteType = {
+		name = "GFX_RUS_tech_naval_mtg_1910_destroyer_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/RUS_novik.png"
+	}
 	#Making this generic for now
 	SpriteType = {
 		name = "GFX_tech_naval_mtg_1857_lineship_medium"
@@ -4022,11 +4026,39 @@ spriteTypes = {
 		name = "GFX_USA_tech_naval_mtg_1922_carrier_hull_medium"
 		texturefile = "gfx/interface/technologies/ships/USA_langley.png"
 	}
-
+	SpriteType = {
+		name = "GFX_USA_tech_naval_mtg_1918_cruiser_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/USA_omaha.png"
+	}
+	SpriteType = {
+		name = "GFX_tech_naval_mtg_1922_cruiser_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/USA_pensacola.png"
+	}
+	SpriteType = {
+		name = "GFX_tech_naval_mtg_modern_cruiser_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/USA_pensacola.png"
+	}
+	SpriteType = {
+		name = "GFX_tech_naval_mtg_1914_dreadnought_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/USA_pennsylvania.png"
+	}
 	### Brazil Ships ####	
 	SpriteType = {
 		name = "GFX_BRA_tech_naval_mtg_early_dreadnought_hull_medium"
 		texturefile = "gfx/interface/technologies/ships/BRA_minas_gerais.png"
+	}
+	### Peru Ships ####
+	SpriteType = {
+		name = "GFX_PRU_tech_naval_mtg_1940_destroyer_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/PRU_AG.png"
+	}
+	SpriteType = {
+		name = "GFX_PRU_tech_naval_mtg_1944_submarine_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/PRU_ferre.png"
+	}
+	SpriteType = {
+		name = "GFX_PRU_tech_naval_mtg_1922_submarine_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/PRU_R1.png"
 	}
 	### Chile Ships ####	
 	SpriteType = {
@@ -7197,6 +7229,11 @@ spriteTypes = {
 		name = "GFX_PRS_tech_infantry_smg_equipment0_medium"
 		texturefile = "gfx/interface/technologies/infantry/PRS_infantry_equipment_smg_0.dds"
 	}
+	### PRUSSIAN EQUIPMENT ###
+	SpriteType = {
+		name = "GFX_PRS_tech_naval_mtg_1916_destroyer_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/PRS_M1916.png"
+	}
 	### ARGENTINIAN EQUIPMENT ###
 	SpriteType = {
 		name = "GFX_ARG_rifle_equipment6_medium"
@@ -7853,7 +7890,11 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_tech_naval_mtg_1940_destroyer_hull_medium"
-		texturefile = "gfx/interface/technologies/ships/improved_destroyer.dds"
+		texturefile = "gfx/interface/technologies/ships/1940_destroyer.png"
+	}
+	SpriteType = {
+		name = "GFX_tech_naval_mtg_1944_destroyer_hull_medium"
+		texturefile = "gfx/interface/technologies/ships/1944_canon_class.png"
 	}
 	SpriteType = {
 		name = "GFX_tech_naval_mtg_1935_destroyer_hull_medium"
@@ -7872,6 +7913,7 @@ spriteTypes = {
 		name = "GFX_advanced_ship_hull_cruiser_medium"
 		texturefile = "gfx/interface/technologies/advanced_light_cruiser.dds"
 	}
+	
 	SpriteType = {
 		name = "GFX_improved_ship_hull_cruiser_medium"
 		texturefile = "gfx/interface/technologies/improved_light_cruiser.dds"
@@ -7944,7 +7986,7 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_tech_naval_mtg_1935_carrier_hull_medium"
-		texturefile = "gfx/interface/technologies/basic_carrier.dds"
+		texturefile = "gfx/interface/technologies1935_carrier.png"
 	}
 	SpriteType = {
 		name = "GFX_early_ship_hull_carrier_medium"
