@@ -302,7 +302,7 @@ FRA_SE_portrait_9_desc_text: "Jean-Baptiste Philibert\n Neutral Bonapartist"
  FRA_the_art_of_refining: "The Art of Refining"
  FRA_the_art_of_refining_desc: "While we may make all that we want, we must also refine what we have. Algerian lead, Alsatian coal, Gold from Aquitaine. All of that has to be used for something, lest it simply sit under the ground, doing nothing. As such, we shall push for our youth to actually learn how to refine the materials at their disposal. And then, when they do that, we shall utilize those resources to produce guns, railway carts, fuel, whatever our glorious Empire needs!"
  FRA_first_batches_of_coal_and_steel: "First Batches of Coal and Steel"
- FRA_first_batches_of_coal_and_steel_desc: "It is a sad fact, but France is not endowed with infinite resources. Copal and Steel dry up, and as much as we do our best to mine in Provence and in Alsace, there is still not enough. As such we must begin to import our first batches of coal and steel from Britain and from America. Rue we the day when we begin to import something from the Prussians, but it might need to be considered later on. For now though, let us rejoice that our industry is so grand that we must import to keep it running at these speeds!"
+ FRA_first_batches_of_coal_and_steel_desc: "It is a sad fact, but France is not endowed with infinite resources. Coal and Steel dry up, and as much as we do our best to mine in Provence and in Alsace, there is still not enough. As such we must begin to import our first batches of coal and steel from Britain and from America. Rue we the day when we begin to import something from the Prussians, but it might need to be considered later on. For now though, let us rejoice that our industry is so grand that we must import to keep it running at these speeds!"
  FRA_strengthen_the_ports_of_bordeaux: "Strengthen the Ports of Bordeaux"
  FRA_strengthen_the_ports_of_bordeaux_desc: "While we have done our best to strengthen all of our ports, with special care towards Marseille and Toulon where most of our fleet resides - we must strengthen one more with great care. Bordeaux, the seat of at least one Atlantic fleet. While it might not be a center of production and while it may take ages if Bordeaux is ever to reach that stage - it will still benefit us to enlarge and re-outfit the port so that should war come, repairs and safety are still guaranteed. And if Bordeaux's mayors manage to bless the city with a truly marvelous port, all the glory to them."
  FRA_embolden_the_silk_of_lyon: "Embolden the Silk of Lyon"
@@ -581,7 +581,8 @@ FRA_SE_portrait_9_desc_text: "Jean-Baptiste Philibert\n Neutral Bonapartist"
  FRA_mission_caen_argentan_rail: "Caen-Argentan Railway"
  FRA_strengthen_the_ports_of_bordeaux_in_progress: "§GBordeaux Expansion in Progress.§!"
  FRA_strengthen_the_ports_of_marsailles_in_progress: "§GMarseille Expansion in Progress.§!"
- 
+ FRA_pereire_brothers_tt: "If §CAdvisor Is Selected§! Banking §YDecision Will Get Unlocked§! To §PImprove Advisor Traits§!"
+
 ##################################################
 #                     DECISIONS
 ##################################################
@@ -668,6 +669,9 @@ FRA_SE_portrait_9_desc_text: "Jean-Baptiste Philibert\n Neutral Bonapartist"
  FRA_decision_expand_tourism: "Expand Tourism"
  FRA_decision_enlarged_festivities_of_empire: "Enlarge the Empires Festivities"
  FRA_decision_expand_the_louvre: "Further Expansions of the Louvre"
+ FRA_mission_economic_growth: "French Economic Growth"
+ FRA_decision_help_pereire_brothers: "Help the Pereire Brothers"
+ FRA_decision_support_banking: "Support Banking"
 
 ##################################################
 #            BALANCE Of POWER (BOP)
@@ -675,7 +679,7 @@ FRA_SE_portrait_9_desc_text: "Jean-Baptiste Philibert\n Neutral Bonapartist"
 
  FRA_Balance_of_Power_Napoleon: "Napoleon's Political Outlook"
  FRA_BOP_Napoleon_the_Emporer: "Napoleon the Emporer"
- FRA_BOP_Proggresive_Emporer: "A Revolutionary Emporer"
+ FRA_BOP_Proggresive_Emporer: "A Liberal Emporer"
  FRA_BOP_Authoritarian_Emporer: "The Authoritarian Emporer"
  FRA_BOP_Proggresive_Emporer_Proggressive: "The Proggresive Emporer"
  FRA_BOP_Proggresive_Emporer_Revolutionary: "Revolutionary Napoleon"
@@ -688,6 +692,24 @@ FRA_SE_portrait_9_desc_text: "Jean-Baptiste Philibert\n Neutral Bonapartist"
  FRA_BOP_progressive_laws: "Introduce Proggresive Laws"
  FRA_BOP_conservative_laws: "Introduce Conservative Laws"
  
+ FRA_idea_BOP_oppsition: "Opposition to Napoleon's Policies"
+ FRA_idea_BOP_oppsition_desc: "Napoleon III is the unifying figuire for the French people, this time however he couldn't keep both sides at bay which will lead to further consequences in the future if nothing is done"
+
+ #Left is angry
+ nap_france.402.t: "Political Oppositions Forms"
+ nap_france.402.d: "WIP"
+ nap_france.402.a: "We will make some concessions"
+ nap_france.402.b: "We'll just wait it out"
+ nap_france.402.c: "They ain't gona stop us, let us go even further"
+
+ #Right is angry
+ nap_france.403.t: "Political Oppositions Forms"
+ nap_france.403.d: "WIP"
+ nap_france.403.a: "We will make some concessions"
+ nap_france.403.b: "We'll just wait it out"
+ nap_france.403.c: "They ain't gona stop us, let us go even further"
+
+
 ##################################################
 #          NATIONAL SPIRITS AND ADVISORS
 ##################################################
@@ -2113,6 +2135,8 @@ FRA_trait_jules_baroche: "French Empire Minister of Justice"
 FRA_trait_gustave_rouland: "French Empire Minister of Education and Cults"
 FRA_trait_prosper_laubat: "French Empire Minister of Marine and the Colonies"
 FRA_trait_claude_delangle: "An Imperial Magistrate"
+FRA_trait_pereire_brothers_1: "Early Bankers"
+FRA_trait_pereire_brothers_2: "Successful Bankers"
 
 ###################DYNAMIC MODIFIERS######################
 dynmod_FRA_imperial_army: "L'Armée de la Victoire"
