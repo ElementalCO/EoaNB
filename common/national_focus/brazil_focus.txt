@@ -5882,8 +5882,7 @@ focus_tree = {
 		}
 		search_filters = { FOCUS_FILTER_DIPLOMACY }
 		completion_reward = {
-			country_event = { id = brazil.302 }
-			#unlock_decision_tooltip = BRA_decision_friendship_treaty_Brazil_Ottoman_1857
+			unlock_decision_tooltip = BRA_decision_friendship_treaty_Brazil_Ottoman_1857
 		}
 	}
 	
@@ -5899,12 +5898,11 @@ focus_tree = {
 		}
 		search_filters = { FOCUS_FILTER_DIPLOMACY }
 		completion_reward = {
-			country_event = { id = brazil.300 }
-			#unlock_decision_tooltip = BRA_decision_trade_treaty_Brazil_Uruguay_1857
+			unlock_decision_tooltip = BRA_decision_trade_treaty_Brazil_Uruguay_1857
 		}
 	}
 	
-	focus = {
+	focus =  {
 		id = BRA_1857_treaty_with_argentina
 		x = 0
 		y = 1
@@ -5916,12 +5914,13 @@ focus_tree = {
 		}
 		search_filters = { FOCUS_FILTER_DIPLOMACY }
 		completion_reward = {
-			country_event = { id = brazil.306 }
-			#unlock_decision_tooltip = BRA_decision_trade_treaty_Brazil_Uruguay_1857
+			ARG = {
+				country_event = { id = brazil.306 }
+			}
 		}
 	}
-	
-	focus = {
+
+	focus =  {
 		id = BRA_1857_treaty_with_paraguay
 		x = 0
 		y = 1
@@ -5934,9 +5933,26 @@ focus_tree = {
 		search_filters = { FOCUS_FILTER_DIPLOMACY }
 		completion_reward = {
 			country_event = { id = brazil.304 }
-			#unlock_decision_tooltip = BRA_decision_trade_treaty_Brazil_Uruguay_1857
 		}
 	}
+
+	#focus = {
+		#id = BRA_diplomatic_mission_platinean
+		#x = 0
+		#y = 1
+		#cost = 7
+		#relative_position_id = BRA_1857_friendship_treaty_with_ottoman
+		#icon = GFX_Focus_Diplomatic_Ally_ARG_2
+
+		#prerequisite = {
+			#focus = BRA_1857_friendship_treaty_with_ottoman
+		#}
+
+		#search_filters = { FOCUS_FILTER_DIPLOMACY }
+		#completion_reward = {
+			#unlock_decision_tooltip = BRA_platinean_diplomacy_category
+		#}
+	#}
 
 	focus = {
 		id = BRA_1857_disputes_with_UK
@@ -5944,14 +5960,16 @@ focus_tree = {
 		y = 1
 		cost = 7
 		relative_position_id = BRA_1857_treaty_with_paraguay
+		#relative_position_id = BRA_diplomatic_mission_platinean
 		icon = GFX_focus_generic_diplomatic_treaty
+
 		prerequisite = {
 			focus = BRA_1857_treaty_with_paraguay
 		}
+
 		search_filters = { FOCUS_FILTER_DIPLOMACY }
 		completion_reward = {
-			country_event = { id = brazil.308 }
-			#unlock_decision_tooltip = BRA_decision_disputes_with_UK_1857
+			unlock_decision_tooltip = BRA_decision_disputes_with_UK_1857
 		}
 	}
 	
