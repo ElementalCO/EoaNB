@@ -3776,6 +3776,38 @@ spriteTypes = {
 	}
 	### USA equipment ###	
 	SpriteType = {
+		name = "GFX_USA_rifle_equipment1_medium"
+		texturefile = "gfx/interface/technologies/USA_rifle_equipment1.png"
+	}
+	SpriteType = {
+		name = "GFX_USA_rifle_equipment2_medium"
+		texturefile = "gfx/interface/technologies/USA_rifle_equipment2.png"
+	}
+	SpriteType = {
+		name = "GFX_USA_rifle_equipment3_medium"
+		texturefile = "gfx/interface/technologies/USA_rifle_equipment3.png"
+	}
+	SpriteType = {
+		name = "GFX_USA_rifle_equipment4_medium"
+		texturefile = "gfx/interface/technologies/USA_rifle_equipment4.png"
+	}
+	SpriteType = {
+		name = "GFX_USA_rifle_equipment5_medium"
+		texturefile = "gfx/interface/technologies/USA_rifle_equipment5.png"
+	}
+	SpriteType = {
+		name = "GFX_USA_rifle_equipment6_medium"
+		texturefile = "gfx/interface/technologies/USA_rifle_equipment6.png"
+	}
+	SpriteType = {
+		name = "GFX_USA_rifle_equipment7_medium"
+		texturefile = "gfx/interface/technologies/USA_rifle_equipment7.png"
+	}
+	SpriteType = {
+		name = "GFX_USA_rifle_equipment8_medium"
+		texturefile = "gfx/interface/technologies/USA_rifle_equipment8.png"
+	}
+	SpriteType = {
 		name = "GFX_USA_motorized_rocket_unit_medium"
 		texturefile = "gfx/interface/technologies/USA_motorized_rocket_unit.dds"
 	}
@@ -7370,6 +7402,10 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_RUS_rifle_equipment1_medium"
 		texturefile = "gfx/interface/technologies/infantry/RUS_infantry_equipment_rifle_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_RUS_rifle_equipment6_medium"
+		texturefile = "gfx/interface/technologies/infantry/RUS_rifle_equipment6.png"
 	}
 	SpriteType = {
 		name = "GFX_RUS_infantry_equipment_rifle_1_medium"
