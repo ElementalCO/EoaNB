@@ -7275,6 +7275,40 @@ spriteTypes = {
 		name = "GFX_ARG_infantry_equipment_rifle_10_medium"
 		texturefile = "gfx/interface/technologies/infantry/ARG_infantry_equipment_rifle_6.png"
 	}
+
+	### ARGENTINIAN SHIPS ###
+	SpriteType = {
+		name = "GFX_ARG_tech_naval_mtg_1910_destroyer_hull"
+		texturefile = "gfx/interface/technologies/ships/ARG_catamarca.png"
+	}
+	SpriteType = {
+		name = "GFX_ARG_tech_naval_mtg_1910_dreadnought_hull"
+		texturefile = "gfx/interface/technologies/ships/ARG_rivadavia.png"
+	}
+	SpriteType = {
+		name = "GFX_ARG_tech_naval_mtg_1935_cruiser_hull"
+		texturefile = "gfx/interface/technologies/ships/ARG_la_argentina.png"
+	}
+	SpriteType = {
+		name = "GFX_ARG_tech_naval_mtg_modern_cruiser_prototype"
+		texturefile = "gfx/interface/technologies/ships/ARG_buenos_aires.png"
+	}
+	SpriteType = {
+		name = "GFX_ARG_tech_naval_mtg_1922_destroyer_hull"
+		texturefile = "gfx/interface/technologies/ships/ARG_cervantes.png"
+	}
+	SpriteType = {
+		name = "GFX_ARG_tech_naval_mtg_1944_monitor"
+		texturefile = "gfx/interface/technologies/ships/ARG_king.png"
+	}
+	SpriteType = {
+		name = "GFX_ARG_tech_naval_mtg_1880_monitor"
+		texturefile = "gfx/interface/technologies/ships/ARG_la_plata.png"
+	}
+	SpriteType = {
+		name = "GFX_ARG_tech_naval_mtg_1890_torpedo_boat"
+		texturefile = "gfx/interface/technologies/ships/ARG_independencia.png"
+	}
 	### AUSTRIAN EQUIPMENT ###
 	SpriteType = {
 		name = "GFX_AUS_infantry_equipment_rifle_10_medium"
@@ -7468,7 +7502,12 @@ spriteTypes = {
 		name = "GFX_PIE_infantry_equipment_rifle_5_medium"
 		texturefile = "gfx/interface/technologies/infantry/ITA_infantry_equipment_rifle_5.png"
 	}
-	### END OF ITALIAN EQUIPMENT ### 
+	### ITALIAN SHIPS ###
+	SpriteType = {
+		name = "GFX_PIE_tech_naval_mtg_modern_cruiser_prototype"
+		texturefile = "gfx/interface/technologies/infantry/ITA_garibaldi.png"
+	}
+	### END OF ITALIAN SHIPS ###
 	SpriteType = {
 		name = "GFX_CHO_traditional_mixed_arms_medium"
 		texturefile = "gfx/interface/technologies/infantry/CHO_infantry_equipment_pike_and_shot_0.png"
