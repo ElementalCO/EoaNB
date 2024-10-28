@@ -13,17 +13,14 @@ state = {
 		3838 9851 11804
 	}
 
-	history = {
+	history = { 
 		# End of a New Beginning
 		owner = FRA
-		1857.1.1 = {
-			add_core_of = FRA
+		add_core_of = FRA
 
 			buildings = {
 				infrastructure = 4
-				3838 = {
-					naval_base = 2
-				}
+				3838 = {naval_base = 2}
 			}
 
 			victory_points = { 3838 1 } # Ajáccio
@@ -39,7 +36,7 @@ state = {
 			add_to_array = { state_religion_array_num = 0.99 }
 			add_to_array = { state_religion_array = 1 } # Orthodox
 			add_to_array = { state_religion_array_num = 0.01 }
-		}
+		
 	}
 	local_supplies=0.0 
 }

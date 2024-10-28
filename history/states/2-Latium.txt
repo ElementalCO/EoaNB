@@ -23,17 +23,11 @@ state = {
 			farm = 1
 			industrial_complex = 1
 			fabric_weavery = 2
-			11751 = {
-				naval_base = 2
-			}
+			11751 = {naval_base = 2}
 		}
 
-		victory_points = {
-			9904 40
-		}
-		victory_points = { 
-			11751 3
-		}
+		victory_points = {9904 40}
+		victory_points = {11751 3}
 		
 		add_to_array = { state_culture_array = 43 }
 		add_to_array = { state_culture_array = 37 } 
@@ -44,7 +38,6 @@ state = {
 		add_to_array = { state_culture_array_num = 0.02 }
 		add_to_array = { state_culture_array_num = 0.01 }
 	
-
 		add_to_array = { state_religion_array = 2 } # Catholic
 		add_to_array = { state_religion_array = 7 } # Jewish
 		add_to_array = { state_religion_array_num = 0.99 }
